@@ -4,7 +4,7 @@ import pandas as pd
 
 # Creamos el título de la App
 st.title("Titanic App")
-st.header("Demo Atitanic app")
+st.header("Demo titanic app")
 st.write("Gráficas del titanic")
 
 # Comando para correr: python -m streamlit run hola.py
