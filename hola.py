@@ -1,7 +1,8 @@
 # Importamos la biblioteca streamlit
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
+#import matplotlib.pyplot as plt
 
 # Creamos el título de la App
 st.title("Titanic App")
